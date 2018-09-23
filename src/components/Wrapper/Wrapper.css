@@ -1,5 +1,5 @@
 .wrapper {
-  padding-top: 50px;
+  padding-top: 150px;
   background: #ECEFF1;
   height: 100%;
   display: flex;
@@ -8,4 +8,9 @@
   justify-content: space-around;
   align-content: flex-start;
   overflow: auto;
+}
+
+.intro {
+  background-image: url("/assets/images/Skottie-YoungBG.png");
+  margin: 0 auto;
 }

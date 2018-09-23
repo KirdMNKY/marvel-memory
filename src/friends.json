@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Thanos",
-    "image": "./assets/images/Thanos.png"
+    "image": "../assets/images/Thanos.png"
   },
   {
     "id": 2,
@@ -12,92 +12,92 @@
   {
     "id": 3,
     "name": "Starlord",
-    "image": "./assets/images/Starlord.png"
+    "image": "../assets/images/Starlord.png"
   },
   {
     "id": 4,
     "name": "Gamora",
-    "image": "./assets/images/Gamora.png"
+    "image": "../assets/images/Gamora.png"
   },
   {
     "id": 5,
     "name": "Loki",
-    "image": "./assets/images/Loki.png"
+    "image": "../assets/images/Loki.png"
   },
   {
     "id": 6,
     "name": "Spiderwoman",
-    "image": "./assets/images/Spiderwoman.png"
+    "image": "../assets/images/Spiderwoman.png"
   },
   {
     "id": 7,
     "name": "Jane Foster",
-    "image": "./assets/images/JanefosterThor.png"
+    "image": "../assets/images/JanefosterThor.png"
   },
   {
     "id": 8,
     "name": "Thor",
-    "image": "./assets/images/Thor.png"
+    "image": "../assets/images/Thor.png"
   },
   {
     "id": 9,
     "name": "Deadpool",
-    "image": "./assets/images/Deadpool.png"
+    "image": "../assets/images/Deadpool.png"
   },
   {
     "id": 10,
     "name": "Hulk",
-    "image": "./assets/images/Hulk.png"
+    "image": "../assets/images/Hulk.png"
   },
   {
     "id": 11,
     "name": "Angela",
-    "image": "./assets/images/Angela.png"
+    "image": "../assets/images/Angela.png"
     
   },
   {
     "id": 12,
     "name": "Elektra",
-    "image": "./assets/images/Elektra.png"
+    "image": "../assets/images/Elektra.png"
   },
   {
     "id": 13,
     "name": "Groot",
-    "image": "./assets/images/Groot.png"
+    "image": "../assets/images/Groot.png"
   },
   {
     "id": 14,
     "name": "Hawkeye",
-    "image": "./assets/images/Hawkeye.png"
+    "image": "../assets/images/Hawkeye.png"
   },
   {
     "id": 15,
     "name": "Ironfist",
-    "image": "./assets/images/Ironfist.png"
+    "image": "../assets/images/Ironfist.png"
   },
   {
     "id": 16,
     "name": "Medusa",
-    "image": "./assets/images/Medusa.png"
+    "image": "../assets/images/Medusa.png"
   },
   {
     "id": 17,
     "name": "Shehulk",
-    "image": "./assets/images/Shehulk.png"
+    "image": "../assets/images/Shehulk.png"
   },
   {
     "id": 18,
     "name": "Nova",
-    "image": "./assets/images/Nova.png"
+    "image": "../assets/images/Nova.png"
   },
   {
     "id": 19,
     "name": "Squirrelgirl",
-    "image": "./assets/images/Squirrelgirl.png"
+    "image": "../assets/images/Squirrelgirl.png"
   },
   {
     "id": 20,
     "name": "Blade",
-    "image": "./assets/images/Blade.png"
+    "image": "../assets/images/Blade.png"
   }
 ]

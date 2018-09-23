@@ -21,6 +21,7 @@ class App extends Component {
   // Map over this.state.friends and render a FriendCard component for each friend object
   render() {
     return (
+      
       <Wrapper>
         <Title>Friends List</Title>
         {this.state.friends.map(friend => (
@@ -30,8 +31,6 @@ class App extends Component {
             key={friend.id}
             name={friend.name}
             image={friend.image}
-            occupation={friend.occupation}
-            location={friend.location}
           />
         ))}
       </Wrapper>
