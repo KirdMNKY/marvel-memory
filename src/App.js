@@ -57,7 +57,7 @@ class App extends Component {
     return (
       
       <Wrapper>
-        <Title>Friends List</Title>
+        <Title>Young Marvel Friends Game</Title>
         {this.state.friends.map(friend => (
           <FriendCard
             onMouseEnter={this.mouseOver}
