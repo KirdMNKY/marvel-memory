@@ -1,10 +1,12 @@
 import React from "react";
 import "./FriendCard.css";
 
+
+
 const FriendCard = props => (
   <div>
 
-  <div className="card">
+  <div className="card" onMouseEnter={props.onMouseEnter} onMouseLeave={props.onMouseLeave} onClick={() => props.resetFriends(props.id)}>
 
     <div className="img-container">
       <img alt={props.name} src={props.image} />
@@ -16,11 +18,10 @@ const FriendCard = props => (
         </li>
       </ul>
     </div>
-    <span onClick={() => props.removeFriend(props.id)} className="remove">
-      𝘅
-    </span>
   </div>
   </div>
-);
+  
 
+)
+  
 export default FriendCard;

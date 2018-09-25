@@ -1,16 +1,16 @@
 .card {
   background: #fff;
   border-radius: 2px;
-  height: 325px;
+  height: 200px;
   margin: 1rem;
   position: relative;
-  width: 325px;
+  width: 200px;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
   text-align: left;
 }
 
 .card > .img-container {
-  height: 60%;
+  height: 80%;
   overflow: hidden;
   text-align: center;
   background:#6CADDC;
@@ -20,18 +20,20 @@
 }
 
 .card > .content {
+  padding-top: 20px;
   padding-left: 1rem;
   padding-right: 1rem;
-  font-size: 30px;
+  font-size: 20px;
   margin: 0 auto;
 }
 
 .card > .content > ul {
   list-style-type: none;
+  padding: 0px;
 }
 
 .card > .content > ul > li {
-  margin-top: 18px;
+  margin-top: 5px;
   
 }
 
